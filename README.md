@@ -5,7 +5,7 @@
 
 Highlight [Tailwind CSS](https://tailwindcss.com/) classes in [neovim](https://neovim.io/)
 
-> "The neovim plugin [used](https://github.com/bautistaaa/dotfiles/blob/d53f8d0fe4b226e90bcbfcecc8ceea6a270ccd1c/nvim/lua/trash/plugins.lua#L65) by a Netflix Engineer (@trash_dev)"
+> "The neovim plugin [used](https://github.com/bautistaaa/dotfiles/blob/d53f8d0fe4b226e90bcbfcecc8ceea6a270ccd1c/nvim/lua/trash/plugins.lua#L65) by a Netflix Engineer (@trashh_dev) and Amazon engineer @Hacksore"
 
 ![tailwind-highlight-demo](./assets/demo.png)
 
